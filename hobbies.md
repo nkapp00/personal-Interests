@@ -16,9 +16,9 @@ games and found them to be so exilerating. I enjoy a lot of RPG(Role-Playing gam
 call of duty, titanfall, battefield, battlefront e.t.c.
 
 ### These are a few of my favorite gaming sites ###
-1. [activision](./https://www.activision.com/home)
-2. [epic](./https://www.epicgames.com/store/en-US/)
-3. [EA](./https://www.ea.com/)
+1. [activision](https://www.activision.com/home)
+2. [epic](https://www.epicgames.com/store/en-US/)
+3. [EA](https://www.ea.com/)
 
 
 [return to home page](./README.md)
