@@ -6,5 +6,5 @@ I am a student at the *University of Missouri*. I am creating this webpage to sh
 Navigate my website using these links
 
 * [programming](./programing.md)
-* [Hobbies](./hobby.md)
+* [Hobbies](./hobbies.md)
 * [Dreams](./dreams.md)
