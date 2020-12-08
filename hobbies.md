@@ -10,6 +10,8 @@ are looking from a top a mountain after a long hike is such a amazing feeling. B
 fascinating because It can be so calm and peacful like at *Lake Tahoe* where the water is crstal clear, but it can also be powerful and destructive such as tsunami 
 and hurricanes.
 
+![lake Tahoe](https://lp-cms-production.imgix.net/2019-06/GettyImages-136347494_high.jpg)
+
 ## Video Games ##
 I have been playing video games for my entire life, I've played on consoles such as gamecube, wii, playstation 4, xbox 360, and xbox one. I have always gotten lost in
 games and found them to be so exilerating. I enjoy a lot of RPG(Role-Playing games) such as assassins creed saga, skyrim, e.t.c. as well as first person shooters like
