@@ -14,3 +14,12 @@ and hurricanes.
 I have been playing video games for my entire life, I've played on consoles such as gamecube, wii, playstation 4, xbox 360, and xbox one. I have always gotten lost in
 games and found them to be so exilerating. I enjoy a lot of RPG(Role-Playing games) such as assassins creed saga, skyrim, e.t.c. as well as first person shooters like
 call of duty, titanfall, battefield, battlefront e.t.c.
+
+### These are a few of my favorite gaming sites ###
+1. [activision](./https://www.activision.com/home)
+2. [epic](./https://www.epicgames.com/store/en-US/)
+3. [EA](./https://www.ea.com/)
+
+
+[return to home page](./README.md)
+
