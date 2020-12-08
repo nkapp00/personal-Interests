@@ -9,14 +9,23 @@ ranging across many genres such as fps, strategy, puzzle, rpg, and adventure gam
 **THIS CODE CREATES A TURTLE GRAPHIC IMGAGE**
 
 from turtle import *
+
 color('red', 'yellow')
+
 begin_fill()
+
 while True:
+
     forward(200)
+    
     left(170)
+    
     if abs(pos()) < 1:
+    
         break
+        
 end_fill()
+
 done()
 
 ##work with adobe software
