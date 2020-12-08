@@ -6,4 +6,4 @@
 - travel to exotic places 
 - be a mentor
 
-![beach house](
+![beach house](https://i.pinimg.com/originals/4f/4d/9a/4f4d9a6170710040800b00c5cf213c42.jpg)
